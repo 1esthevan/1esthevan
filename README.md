@@ -36,10 +36,6 @@ rapidamente se tornou uma <b>obsessão</b>.
   e contribuir para a evolução da tecnologia.  
 </p>
 
-<p align="center">
-  <img src="https://i.imgur.com/SMq0gXe.gif" width="300px" alt="brain animation">
-</p>
-
 ---
 
 <h2 align="center">⚡ Valores que me definem</h2>
