@@ -28,19 +28,21 @@
 
 ---
 
-## `$ whoami`
+## `Quem sou eu?`
 
-Estudante de Ciência da Computação na Universidade Franciscana, 18 anos.
+Sou estudante de Ciência da Computação na Universidade Franciscana, com 18 anos, dedicado à compreensão profunda dos sistemas computacionais.
 
-Comecei com desenvolvimento web — tive experiência prática na área, mas percebi que meu interesse estava em algo mais próximo da máquina. Hoje foco essencialmente em C e Java. C é minha linguagem principal, com olhos voltados para sistemas embarcados, que é o rumo que quero dar à minha carreira. Java estou aprendendo recentemente, mas com seriedade.
+Inicialmente, meu interesse concentrava-se no desenvolvimento web, sobretudo em projetos pessoais. Todavia, à medida que adentrei o ecossistema GNU/Linux, tornou-se evidente minha afinidade pelas camadas mais próximas do hardware, envolvendo não apenas aspectos estruturais, mas também a complexidade inerente às operações de baixo e médio nível computacional. Essa percepção redirecionou minha atenção para o estudo de sistemas que exigem uma compreensão detalhada da máquina e de suas interações fundamentais.
 
-O objetivo de longo prazo é a área acadêmica. Quero contribuir com pesquisa em ciência da computação — sistemas de baixo nível é o território que mais me chama.
+No presente, concentro-me no aprofundamento em C e Java. C constitui minha linguagem principal, empregada especialmente em contextos de sistemas embarcados, área à qual pretendo dedicar minha trajetória profissional. Java tem sido estudada em paralelo, motivada pelas exigências do currículo acadêmico, visando à consolidação de uma base versátil e abrangente. Além disso, realizei estudos introdutórios em Python, com o intuito de desenvolver soluções rápidas e eficientes para pequenos projetos no contexto acadêmico, embora não constitua minha linguagem de foco.
 
-Este perfil é um registro do processo. Implementações, estudos, exercícios. Nada finalizado, tudo em construção.
+Almejo, a longo prazo, uma carreira acadêmica, contribuindo para a produção de conhecimento em ciência da computação, particularmente na investigação de sistemas de baixo nível, que representam meu principal campo de interesse.
+
+Este perfil configura um registro do processo de aprendizado contínuo, englobando implementações, exercícios e estudos, e reflete a natureza evolutiva de meu percurso, em constante construção e aperfeiçoamento.
 
 ---
 
-## `$ uname -a`
+## `$ Sistemas Operacionais`
 
 <div align="center">
 
@@ -48,9 +50,9 @@ Este perfil é um registro do processo. Implementações, estudos, exercícios. 
 
 </div>
 
-Tenho uma relação de verdade com sistemas Unix. Linux e FreeBSD me fascinam — a filosofia por trás, a transparência do sistema, a sensação de estar perto da máquina de verdade. Ainda estou aprendendo, explorando o ambiente, entendendo como tudo se conecta por baixo.
+Cultivo uma relação profunda com sistemas Unix. Linux e FreeBSD despertam meu fascínio, tanto pela filosofia que os fundamenta quanto pela transparência de suas arquiteturas, conferindo a sensação de proximidade direta com o hardware. Atualmente, encontro-me em processo contínuo de aprendizado, explorando esses ambientes e buscando compreender de forma integrada a complexidade das camadas subjacentes.
 
-Windows é onde tenho experiência sólida — anos de uso intenso, do cotidiano ao técnico. macOS conheço um pouco, o suficiente pra me virar.
+Em contrapartida, possuo experiência consolidada com Windows, adquirida ao longo de anos de uso intenso, abrangendo tanto atividades cotidianas quanto tarefas de caráter técnico. Quanto ao macOS, detenho conhecimento suficiente para operar de maneira eficiente dentro do ambiente, embora minha experiência seja mais limitada.
 
 <div align="center">
 
@@ -63,16 +65,16 @@ Windows é onde tenho experiência sólida — anos de uso intenso, do cotidiano
 
 | Sistema | Relação |
 |---|---|
-| 🐧 Linux | `aprendendo ativamente — é onde quero viver` |
-| 👿 FreeBSD | `explorando — filosofia Unix pura` |
-| 🪟 Windows | `experiência sólida de anos` |
-| 🍎 macOS | `conheço o suficiente` |
+| Linux | `Sistema Principal há 2 anos.` |
+| FreeBSD | `explorando por curiosidade` |
+| Windows | `Sistema que mais usei` |
+| macOS | `conheço o suficiente` |
 
 </div>
 
 ---
 
-## `$ cat now.log` &nbsp; <sub>📅 estudando em: 27/02/2025</sub>
+## `Estudando Atualmente` &nbsp; <sub>📅 estudando em: 27/02/2025</sub>
 
 <div align="center">
 
@@ -83,26 +85,23 @@ Windows é onde tenho experiência sólida — anos de uso intenso, do cotidiano
 ```c
 [semana de 27/02/2025]
 
-→ Ponteiros para ponteiros em C — quando achei que tinha entendido, apareceu **ptr
-→ Alocação dinâmica de memória e os erros silenciosos que ela traz
-→ Java OOP — a diferença de paradigma em relação a C é brutal
-→ Como um microcontrolador acorda sem sistema operacional
-→ Internals do Linux — o que acontece nos primeiros milissegundos do boot
-```
+→ Ponteiros para ponteiros em C 
+→ Alocação dinâmica
+→ Java OOP
 
-> _Atualizo esta seção toda semana. Se estiver desatualizada, estou com a cabeça enterrada no código._
+> Atualizo esta seção toda semana. Se estiver desatualizada, estou com a cabeça enterrada
 
 ---
 
 ## `$ cat bookshelf.md`
 
-_Livros que estão na mesa agora — não os que já li, os que estou de fato lendo:_
+_Livros que estão na mesa agora_
 
 <div align="center">
 
 | 📖 Livro | ✍️ Autor | 📍 Status |
 |---|---|---|
-| Clean Code | Robert C. Martin | `lendo → refletindo cada capítulo` |
+| Clean Code | Robert C. Martin | `lendo` |
 
 </div>
 
@@ -114,7 +113,7 @@ _Livros que estão na mesa agora — não os que já li, os que estou de fato le
 
 <div align="center">
 
-🧠 Linguagens
+Linguagens
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -124,7 +123,7 @@ _Livros que estão na mesa agora — não os que já li, os que estou de fato le
 
 <br>
 
-🛠️ Compiladores & Build
+Compiladores & Build
 
 ![GCC](https://img.shields.io/badge/GCC-A42E2B?style=for-the-badge&logo=gnu&logoColor=white)
 ![GDB](https://img.shields.io/badge/GDB-000000?style=for-the-badge&logo=gnu&logoColor=white)
@@ -132,7 +131,7 @@ _Livros que estão na mesa agora — não os que já li, os que estou de fato le
 
 <br>
 
-📝 Editores & IDEs
+Editores & IDEs
 
 ![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -142,7 +141,7 @@ _Livros que estão na mesa agora — não os que já li, os que estou de fato le
 
 <br>
 
-🔧 Versionamento
+Versionamento
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -158,11 +157,11 @@ _Livros que estão na mesa agora — não os que já li, os que estou de fato le
 [✓] Lógica de programação e algoritmos básicos
 [→] C — ponteiros, memória, estruturas
 [→] Java — orientação a objetos, fundamentos
-[→] Ambiente Unix/Linux — filosofia, shell, ferramentas
-[ ] Sistemas Embarcados — microcontroladores, bare-metal
+[→] Ambiente Unix/Linux, filosofia, shell, ferramentas
+[ ] Sistemas Embarcados, microcontroladores, bare-metal
 [ ] Estruturas de Dados e Algoritmos avançados
 [ ] Arquitetura de Computadores
-[ ] Sistemas Operacionais — internals de verdade
+[ ] Sistemas Operacionais, internals de verdade
 [ ] Pesquisa Acadêmica
 ```
 
