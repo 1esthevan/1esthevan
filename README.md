@@ -114,7 +114,7 @@ _Livros que estão na mesa agora — não os que já li, os que estou de fato le
 
 <div align="center">
 
-**🧠 Linguagens**
+🧠 Linguagens
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -124,7 +124,7 @@ _Livros que estão na mesa agora — não os que já li, os que estou de fato le
 
 <br>
 
-**🛠️ Compiladores & Build**
+🛠️ Compiladores & Build
 
 ![GCC](https://img.shields.io/badge/GCC-A42E2B?style=for-the-badge&logo=gnu&logoColor=white)
 ![GDB](https://img.shields.io/badge/GDB-000000?style=for-the-badge&logo=gnu&logoColor=white)
@@ -132,7 +132,7 @@ _Livros que estão na mesa agora — não os que já li, os que estou de fato le
 
 <br>
 
-**📝 Editores & IDEs**
+📝 Editores & IDEs
 
 ![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -142,7 +142,7 @@ _Livros que estão na mesa agora — não os que já li, os que estou de fato le
 
 <br>
 
-**🔧 Versionamento & Colaboração**
+🔧 Versionamento
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -188,9 +188,50 @@ _Livros que estão na mesa agora — não os que já li, os que estou de fato le
 
 ## `$ render --3d activity`
 
+> _Para ativar o gráfico 3D, crie o arquivo abaixo no seu repositório de perfil:_
+
+<details>
+<summary><sub>⚙️ .github/workflows/3d-contrib.yml — clique para ver</sub></summary>
+<br>
+
+```yaml
+name: GitHub-Profile-3D-Contrib
+
+on:
+  schedule:
+    - cron: "0 18 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-3d-contrib
+    steps:
+      - uses: actions/checkout@v3
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+      - name: Commit & Push
+        run: |
+          git config user.email "action@github.com"
+          git config user.name "GitHub Action"
+          git add -A .
+          git commit -m "generate 3d contrib"
+          git push
+```
+
+Depois de rodar o workflow uma vez, adicione esta linha ao README no lugar desta seção:
+
+```
+![3D Contrib](./profile-3d-contrib/profile-night-rainbow.svg)
+```
+
+</details>
+
 <div align="center">
 
-<img src="https://github-profile-3d-contrib.vercel.app/api/isometric?username=Esthevan&theme=tokyo-night" alt="3D Contribution Graph" />
+![3D Contrib](./profile-3d-contrib/profile-night-rainbow.svg)
 
 </div>
 
