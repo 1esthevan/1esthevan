@@ -172,15 +172,15 @@ _Livros que estão na mesa agora — não os que já li, os que estou de fato le
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Esthevan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=c8a96e&icon_color=6e9dc8&text_color=d4d8e8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=1esthevan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=c8a96e&icon_color=6e9dc8&text_color=d4d8e8"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esthevan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c8a96e&text_color=d4d8e8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1esthevan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c8a96e&text_color=d4d8e8"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Esthevan&theme=tokyonight&hide_border=true&background=0d1117&ring=c8a96e&fire=c8a96e&currStreakLabel=6e9dc8" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=1esthevan&theme=tokyonight&hide_border=true&background=0d1117&ring=c8a96e&fire=c8a96e&currStreakLabel=6e9dc8" />
 
 </div>
 
@@ -188,50 +188,9 @@ _Livros que estão na mesa agora — não os que já li, os que estou de fato le
 
 ## `$ render --3d activity`
 
-> _Para ativar o gráfico 3D, crie o arquivo abaixo no seu repositório de perfil:_
-
-<details>
-<summary><sub>⚙️ .github/workflows/3d-contrib.yml — clique para ver</sub></summary>
-<br>
-
-```yaml
-name: GitHub-Profile-3D-Contrib
-
-on:
-  schedule:
-    - cron: "0 18 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    name: generate-github-profile-3d-contrib
-    steps:
-      - uses: actions/checkout@v3
-      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: ${{ github.repository_owner }}
-      - name: Commit & Push
-        run: |
-          git config user.email "action@github.com"
-          git config user.name "GitHub Action"
-          git add -A .
-          git commit -m "generate 3d contrib"
-          git push
-```
-
-Depois de rodar o workflow uma vez, adicione esta linha ao README no lugar desta seção:
-
-```
-![3D Contrib](./profile-3d-contrib/profile-night-rainbow.svg)
-```
-
-</details>
-
 <div align="center">
 
-![3D Contrib](./profile-3d-contrib/profile-night-rainbow.svg)
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
 
 </div>
 
@@ -247,7 +206,7 @@ Depois de rodar o workflow uma vez, adicione esta linha ao README no lugar desta
 
 <div align="center">
 
-![visitors](https://komarev.com/ghpvc/?username=Esthevan&style=flat-square&color=c8a96e&label=visitors)
+![visitors](https://komarev.com/ghpvc/?username=1esthevan&style=flat-square&color=c8a96e&label=visitors)
 
 </div>
 
