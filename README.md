@@ -1,78 +1,118 @@
-<h1 align="center"> 
-✨ “Elegance is not a dispensable luxury but a quality that decides between success and failure.” ✨  
-— Edsger W. Dijkstra
-</h1>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Esthevan&fontSize=80&fontColor=c8a96e&fontAlignY=38&desc=Estudante%20de%20Ciência%20da%20Computação&descAlignY=60&descColor=6e9dc8&animation=fadeIn" />
+
+</div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=C8A96E&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=60&lines=Sistemas+Embarcados+%2F%2F+C+%2F%2F+Java;Código+escrito+para+aprender%2C+não+para+impressionar.)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTVhYXNxcjJ3azg5OWt1cmxqYTQ4a3l0ZjZjeHYyaDF3aGI3dzlnOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPtjElfqwMOTbH2/giphy.gif" width="250px" alt="rocket">
-</p>
+<div align="center">
 
-<h2 align="center">👨‍💻 Sobre mim</h2>
+```c
+/**
+ * @author  Esthevan
+ * @age     18
+ * @uni     Universidade Franciscana
+ * @focus   C · Java · Sistemas Embarcados · Pesquisa Acadêmica
+ * @status  em construção — assim como eu
+ */
+```
 
-<p align="center">
-Sou <b>Estudante de Ciência da Computação</b> na <b>Universidade de Cruz Alta</b>.  
-A programação entrou na minha vida aos <b>12 anos</b> e, o que começou como <i>curiosidade</i>,  
-rapidamente se tornou uma <b>obsessão</b>.
-</p>
-
----
-
-<h2 align="center">🚀 Atualmente Estudo:</h2>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,typescript,tailwind,python,c,html,css,js" />
-</p>
+</div>
 
 ---
 
-<h2 align="center">🧠 Minha Filosofia</h2>
+## `$ whoami`
 
-<p align="center">
-  Não tenho como objetivo ser apenas mais um desenvolvedor.  
-  <b>Mas sim um cientista da computação.</b>  
-  Meu objetivo não é apenas codar, mas resolver problemas, otimizar sistemas  
-  e contribuir para a evolução da tecnologia.  
-</p>
+Estudante de Ciência da Computação na **Universidade Franciscana**, 18 anos.
 
----
+Comecei com desenvolvimento web — tive experiência prática na área, mas percebi que meu interesse estava em algo mais próximo da máquina. Hoje foco essencialmente em **C** e **Java**. C é minha linguagem principal, com olhos voltados para **sistemas embarcados**, que é o rumo que quero dar à minha carreira. Java estou aprendendo recentemente, mas com seriedade.
 
-<h2 align="center">⚡ Valores que me definem</h2>
+O objetivo de longo prazo é a **área acadêmica**. Quero contribuir com pesquisa em ciência da computação — sistemas de baixo nível é o território que mais me chama.
 
-<table align="center">
-<tr>
-<td align="center"><b>🔥 Obstinação</b><br><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHEzczc0NnBheHM1OGQ1dW1rdjkwMGtla3prMTB4eWwyOXd2dHltaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/U4w70V3qqkZn8A0OwX/giphy.gif" width="120px"><br><i>Não durmo até resolver.</i></td>
-<td align="center"><b>🔬 Ciência</b><br><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3o0d3o0bDkxdnNrNnFrY3pweWgyNzhydmNheG40bnhoY2s2OTJ2biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d1zp7XeNrzpWo/giphy.gif" width="120px"><br><i>Entendo cada engrenagem.</i></td>
-<td align="center"><b>🤝 Colaboração</b><br><img src="https://i.pinimg.com/originals/16/71/cf/1671cfd757b99fd756e30f7d7d28bf67.gif" width="120px"><br><i>Ideias nascem no debate.</i></td>
-</tr>
-</table>
+Este perfil é um registro do processo. Implementações, estudos, exercícios. Nada finalizado, tudo em construção.
 
 ---
 
-<h2 align="center">📚 Estudo Contínuo</h2>
+## `$ cat stack.txt`
 
-<p align="center">
-  A teoria que aprendo na universidade é imediatamente <b>testada em projetos reais</b>.  
-  Para mim, <i>estudo não é uma fase, é um estado permanente.</i>  
-</p>
+<div align="center">
 
+**Foco principal**
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+**Experiência anterior**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Ambiente**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
 
 ---
 
-<h2 align="center">🌍 Missão</h2>
+## `$ cat roadmap.md`
 
-<p align="center">
-  Quero ser uma <b>força multiplicadora</b>, elevando a capacidade técnica das pessoas ao meu redor  
-  e criando um ambiente onde o <b>sucesso coletivo</b> não é objetivo, mas o padrão.  
-</p>
+```
+[✓] Desenvolvimento Web (HTML, CSS, JS)
+[✓] Lógica de programação e algoritmos básicos
+[→] C — sintaxe, ponteiros, gerenciamento de memória
+[→] Java — orientação a objetos, fundamentos
+[ ] Sistemas Embarcados — microcontroladores, bare-metal
+[ ] Estruturas de Dados e Algoritmos avançados
+[ ] Arquitetura de Computadores
+[ ] Sistemas Operacionais
+[ ] Pesquisa Acadêmica — área a definir
+```
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
+## `$ git log --stats`
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=1esthevan&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1esthevan&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</p>
+<div align="center">
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Esthevan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=c8a96e&icon_color=6e9dc8&text_color=d4d8e8"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esthevan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c8a96e&text_color=d4d8e8"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Esthevan&theme=tokyonight&hide_border=true&background=0d1117&ring=c8a96e&fire=c8a96e&currStreakLabel=6e9dc8" />
+
+</div>
+
+---
+
+## `$ echo $QUOTE`
+
+<div align="center">
+
+> *"Qualquer tolo pode escrever código que um computador entenda.*
+> *Bons programadores escrevem código que humanos entendam."*
+> — Martin Fowler
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer&animation=fadeIn"/>
+
+</div>
