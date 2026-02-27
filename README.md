@@ -6,7 +6,15 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=C8A96E&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=60&lines=Sistemas+Embarcados+%2F%2F+C+%2F%2F+Java;Código+escrito+para+aprender%2C+não+para+impressionar.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=C8A96E&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Sistemas+Embarcados+%2F%2F+C+%2F%2F+Java;Código+escrito+para+aprender%2C+não+para+impressionar.;Do+silício+à+instrução+—+é+aqui+que+mora+meu+interesse.)](https://git.io/typing-svg)
+
+</div>
+
+<div align="center">
+
+![visitors](https://komarev.com/ghpvc/?username=Esthevan&style=flat-square&color=c8a96e&label=visitors)
+![Status](https://img.shields.io/badge/status-estudando%20muito-6e9dc8?style=flat-square)
+![Foco](https://img.shields.io/badge/foco-sistemas%20embarcados-c8a96e?style=flat-square)
 
 </div>
 
@@ -30,17 +38,23 @@
 
 ## `$ whoami`
 
-Estudante de Ciência da Computação na **Universidade Franciscana**, 18 anos.
+Estudante de Ciência da Computação na Universidade Franciscana, 18 anos.
 
-Comecei com desenvolvimento web — tive experiência prática na área, mas percebi que meu interesse estava em algo mais próximo da máquina. Hoje foco essencialmente em **C** e **Java**. C é minha linguagem principal, com olhos voltados para **sistemas embarcados**, que é o rumo que quero dar à minha carreira. Java estou aprendendo recentemente, mas com seriedade.
+Comecei com desenvolvimento web — tive experiência prática na área, mas percebi que meu interesse estava em algo mais próximo da máquina. Hoje foco essencialmente em C e Java. C é minha linguagem principal, com olhos voltados para sistemas embarcados, que é o rumo que quero dar à minha carreira. Java estou aprendendo recentemente, mas com seriedade.
 
-O objetivo de longo prazo é a **área acadêmica**. Quero contribuir com pesquisa em ciência da computação — sistemas de baixo nível é o território que mais me chama.
+O objetivo de longo prazo é a área acadêmica. Quero contribuir com pesquisa em ciência da computação — sistemas de baixo nível é o território que mais me chama.
 
 Este perfil é um registro do processo. Implementações, estudos, exercícios. Nada finalizado, tudo em construção.
 
 ---
 
-## `$ uname -a` &nbsp; sistemas operacionais
+## `$ uname -a`
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=4000&pause=1500&color=6E9DC8&center=true&vCenter=true&width=600&height=30&lines=Linux+e+FreeBSD+—+filosofia+Unix%2C+transparência%2C+proximidade+com+a+máquina.)](https://git.io/typing-svg)
+
+</div>
 
 Tenho uma relação de verdade com sistemas Unix. Linux e FreeBSD me fascinam — a filosofia por trás, a transparência do sistema, a sensação de estar perto da máquina de verdade. Ainda estou aprendendo, explorando o ambiente, entendendo como tudo se conecta por baixo.
 
@@ -53,7 +67,7 @@ Windows é onde tenho experiência sólida — anos de uso intenso, do cotidiano
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 
-| Sistema | Nível |
+| Sistema | Relação |
 |---|---|
 | 🐧 Linux | `aprendendo ativamente — é onde quero viver` |
 | 👿 FreeBSD | `explorando — filosofia Unix pura` |
@@ -66,36 +80,39 @@ Windows é onde tenho experiência sólida — anos de uso intenso, do cotidiano
 
 ## `$ cat now.log` &nbsp; <sub>📅 estudando em: 27/02/2025</sub>
 
-```c
-// O que está quebrando minha cabeça agora:
+<div align="center">
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=2500&pause=800&color=5FBE89&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=70&lines=→+Ponteiros+para+ponteiros+em+C+—+**ptr+ainda+me+assombra;→+Java+OOP%3A+a+diferença+de+paradigma+em+relação+a+C+é+brutal;→+Como+um+microcontrolador+acorda+sem+sistema+operacional)](https://git.io/typing-svg)
+
+</div>
+
+```c
 [semana de 27/02/2025]
 
 → Ponteiros para ponteiros em C — quando achei que tinha entendido, apareceu **ptr
 → Alocação dinâmica de memória e os erros silenciosos que ela traz
-→ Primeiros passos com Java OOP — a diferença de paradigma em relação a C é brutal
-→ Como um microcontrolador "acorda" sem sistema operacional
-→ Internals do Linux — tentando entender o que acontece no boot
+→ Java OOP — a diferença de paradigma em relação a C é brutal
+→ Como um microcontrolador acorda sem sistema operacional
+→ Internals do Linux — o que acontece nos primeiros milissegundos do boot
 ```
 
-> *Atualizo esta seção toda semana. Se estiver desatualizada, estou com a cabeça enterrada no código.*
+> _Atualizo esta seção toda semana. Se estiver desatualizada, estou com a cabeça enterrada no código._
 
 ---
 
 ## `$ cat bookshelf.md`
 
-Livros que estão na mesa agora — não os que já li, os que estou **de fato** lendo:
+_Livros que estão na mesa agora — não os que já li, os que estou de fato lendo:_
+
+<div align="center">
 
 | 📖 Livro | ✍️ Autor | 📍 Status |
 |---|---|---|
-| **The C Programming Language** | Kernighan & Ritchie | `lendo → cap. 5 — Ponteiros` |
-| **The Art of Computer Programming Vol. 1** | Donald Knuth | `ritmo lento, constante` |
-| **Computer Organization and Design** | Patterson & Hennessy | `na fila` |
-| **Introduction to Algorithms (CLRS)** | Cormen et al. | `consultando conforme necessário` |
-| **The Linux Command Line** | William Shotts | `lendo em paralelo` |
-| **Clean Code** | Robert C. Martin | `pausado — voltarei` |
+| Clean Code | Robert C. Martin | `lendo → refletindo cada capítulo` |
 
-> *K&R C é o tipo de livro que você lê três vezes e aprende coisas diferentes em cada leitura.*
+</div>
+
+> _"Qualquer um pode escrever código que um computador entenda. Poucos escrevem código que humanos entendam."_
 
 ---
 
@@ -103,23 +120,14 @@ Livros que estão na mesa agora — não os que já li, os que estou **de fato**
 
 <div align="center">
 
-**Foco principal**
-
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-**Experiência anterior**
-
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-**Ferramentas**
-
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![GCC](https://img.shields.io/badge/GCC-A42E2B?style=for-the-badge&logo=gnu&logoColor=white)
-![GDB](https://img.shields.io/badge/GDB-000000?style=for-the-badge&logo=gnu&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 
@@ -128,16 +136,16 @@ Livros que estão na mesa agora — não os que já li, os que estou **de fato**
 ## `$ cat roadmap.md`
 
 ```
-[✓] Desenvolvimento Web (HTML, CSS, JS)
+[✓] Desenvolvimento Web — HTML, CSS, JS
 [✓] Lógica de programação e algoritmos básicos
 [→] C — ponteiros, memória, estruturas
 [→] Java — orientação a objetos, fundamentos
 [→] Ambiente Unix/Linux — filosofia, shell, ferramentas
 [ ] Sistemas Embarcados — microcontroladores, bare-metal
 [ ] Estruturas de Dados e Algoritmos avançados
-[ ] Arquitetura de Computadores (Patterson & Hennessy)
+[ ] Arquitetura de Computadores
 [ ] Sistemas Operacionais — internals de verdade
-[ ] Pesquisa Acadêmica — área a definir
+[ ] Pesquisa Acadêmica
 ```
 
 ---
@@ -170,71 +178,13 @@ Livros que estão na mesa agora — não os que já li, os que estou **de fato**
 
 ---
 
-## `$ run snake.exe`
-
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Esthevan/Esthevan/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Esthevan/Esthevan/output/github-contribution-grid-snake.svg" />
-  <img alt="snake animation" src="https://raw.githubusercontent.com/Esthevan/Esthevan/output/github-contribution-grid-snake-dark.svg" />
-</picture>
-
-</div>
-
-<details>
-<summary><sub>⚙️ como ativar a snake animation</sub></summary>
-<br>
-
-Crie `.github/workflows/snake.yml` no repositório do seu perfil:
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-</details>
-
----
-
-## `$ echo $QUOTE`
-
-<div align="center">
-
-> *"Qualquer tolo pode escrever código que um computador entenda.*
-> *Bons programadores escrevem código que humanos entendam."*
-> — Martin Fowler
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Playfair+Display&size=18&duration=4000&pause=2000&color=C8A96E&center=true&vCenter=true&width=700&height=50&lines=_"A+simplicidade+é+a+sofisticação+máxima."_+—+Leonardo+da+Vinci;_"Primeiro+faça+funcionar%2C+depois+faça+direito."_+—+Kent+Beck;_"Programas+devem+ser+escritos+para+humanos+lerem."_+—+Abelson)](https://git.io/typing-svg)
 
 </div>
 
 ---
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Esthevan&style=flat-square&color=c8a96e&label=visitors" />
-
-</div>
 
 <div align="center">
 
