@@ -6,15 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=C8A96E&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Sistemas+Embarcados+%2F%2F+C+%2F%2F+Java;Código+escrito+para+aprender%2C+não+para+impressionar.;Do+silício+à+instrução+—+é+aqui+que+mora+meu+interesse.)](https://git.io/typing-svg)
-
-</div>
-
-<div align="center">
-
-![visitors](https://komarev.com/ghpvc/?username=Esthevan&style=flat-square&color=c8a96e&label=visitors)
-![Status](https://img.shields.io/badge/status-estudando%20muito-6e9dc8?style=flat-square)
-![Foco](https://img.shields.io/badge/foco-sistemas%20embarcados-c8a96e?style=flat-square)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=1000&color=C8A96E&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Sistemas+Embarcados+%2F%2F+C+%2F%2F+Java;Código+escrito+para+aprender%2C+não+para+impressionar.;Do+silício+à+instrução+—+é+aqui+que+mora+meu+interesse.)](https://git.io/typing-svg)
 
 </div>
 
@@ -52,7 +44,7 @@ Este perfil é um registro do processo. Implementações, estudos, exercícios. 
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=4000&pause=1500&color=6E9DC8&center=true&vCenter=true&width=600&height=30&lines=Linux+e+FreeBSD+—+filosofia+Unix%2C+transparência%2C+proximidade+com+a+máquina.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=4000&pause=1500&color=6E9DC8&center=true&vCenter=true&width=650&height=30&lines=Linux+e+FreeBSD+—+filosofia+Unix%2C+transparência%2C+proximidade+com+a+máquina.)](https://git.io/typing-svg)
 
 </div>
 
@@ -66,6 +58,8 @@ Windows é onde tenho experiência sólida — anos de uso intenso, do cotidiano
 ![FreeBSD](https://img.shields.io/badge/FreeBSD-AB2B28?style=for-the-badge&logo=freebsd&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+
+<br>
 
 | Sistema | Relação |
 |---|---|
@@ -82,7 +76,7 @@ Windows é onde tenho experiência sólida — anos de uso intenso, do cotidiano
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=2500&pause=800&color=5FBE89&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=70&lines=→+Ponteiros+para+ponteiros+em+C+—+**ptr+ainda+me+assombra;→+Java+OOP%3A+a+diferença+de+paradigma+em+relação+a+C+é+brutal;→+Como+um+microcontrolador+acorda+sem+sistema+operacional)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=2500&pause=900&color=5FBE89&center=true&vCenter=true&multiline=true&repeat=true&width=680&height=70&lines=→+Ponteiros+para+ponteiros+em+C+—+**ptr+ainda+me+assombra;→+Java+OOP%3A+a+diferença+de+paradigma+em+relação+a+C+é+brutal;→+Como+um+microcontrolador+acorda+sem+sistema+operacional)](https://git.io/typing-svg)
 
 </div>
 
@@ -120,14 +114,38 @@ _Livros que estão na mesa agora — não os que já li, os que estou de fato le
 
 <div align="center">
 
+**🧠 Linguagens**
+
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+<br>
+
+**🛠️ Compiladores & Build**
+
 ![GCC](https://img.shields.io/badge/GCC-A42E2B?style=for-the-badge&logo=gnu&logoColor=white)
+![GDB](https://img.shields.io/badge/GDB-000000?style=for-the-badge&logo=gnu&logoColor=white)
+![Make](https://img.shields.io/badge/Make-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
+
+<br>
+
+**📝 Editores & IDEs**
+
+![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
+
+<br>
+
+**🔧 Versionamento & Colaboração**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
@@ -180,11 +198,17 @@ _Livros que estão na mesa agora — não os que já li, os que estou de fato le
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Playfair+Display&size=18&duration=4000&pause=2000&color=C8A96E&center=true&vCenter=true&width=700&height=50&lines=_"A+simplicidade+é+a+sofisticação+máxima."_+—+Leonardo+da+Vinci;_"Primeiro+faça+funcionar%2C+depois+faça+direito."_+—+Kent+Beck;_"Programas+devem+ser+escritos+para+humanos+lerem."_+—+Abelson)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=4500&pause=2000&color=C8A96E&center=true&vCenter=true&width=720&height=45&lines="A+simplicidade+é+a+sofisticação+máxima."+—+Leonardo+da+Vinci;"Primeiro+faça+funcionar%2C+depois+faça+direito."+—+Kent+Beck;"Programas+devem+ser+escritos+para+humanos+lerem."+—+Abelson;"O+melhor+código+é+aquele+que+não+precisa+ser+escrito.")](https://git.io/typing-svg)
 
 </div>
 
 ---
+
+<div align="center">
+
+![visitors](https://komarev.com/ghpvc/?username=Esthevan&style=flat-square&color=c8a96e&label=visitors)
+
+</div>
 
 <div align="center">
 
